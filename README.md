@@ -1,4 +1,6 @@
-# collatz-test
+# Collatz Conjecture Testing
+Read as 'code'
+
 This code was requested informally on a MAC0110 class lessoned by Roberto Hirata, 1st semester of 2024. I did not code it when requested, but decided to do it on the recess.
 Initially, it only received a natural number N and printed all resulting numbers (because it looks cool on Python's IDLE), counting what we will call  here "interactions".
 A statistics undergraduate friend of mine, Eduardo Yukio, asked me to graph the results of the number of interactions from 1 to N, so I did it. Also, I altered the initial code to graph the result of every interaction using pyplot.
