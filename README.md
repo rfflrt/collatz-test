@@ -13,5 +13,3 @@ def f(x):
         return 3 * x + 1
 
 That is, if a number is even, it resturns its half and, if odd, returns the tripple of the number and sums 1.
-
-The code in C only calculates the number of interaction (how many times the function was applied).
