@@ -25,7 +25,7 @@ def main():
     op = 2
     while op != 0 and op != 1:
         print("Enter 0 to graph the number of interactions from 1 to N")
-	print("Enter 1 to get the number of interactions of the number N and its result graph")
+        print("Enter 1 to get the number of interactions of the number N and its result graph")
         op = int(input())
         if op == 0:
             seq()
